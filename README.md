@@ -25,7 +25,7 @@
   <a href="https://github.com/sorried">
     <img src="https://img.shields.io/badge/github-sorried-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=sorried&color=7050b8&style=flat-square&label=views" alt="Views" />
+  <img src="https://hits.sh/github.com/sorried.svg?label=views&color=7050b8&style=flat-square" alt="Views" />
 </p>
 
 <hr width="80%" />
