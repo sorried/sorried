@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="./assets/pic.jpg" width="130" height="130" style="border-radius: 50%; border: 3px solid #7050b8; object-fit: cover;" alt="Maya Moon Avatar" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7050b8&height=140&section=header" width="100%" />
+
+<br/>
+
+<img src="./assets/avatar.png" width="130" height="130" alt="Maya Moon Avatar" />
 
 <h1>🌙 Maya Moon</h1>
 
@@ -64,12 +68,10 @@
 
 <br/><br/>
 
-<img src="./assets/furry.gif" width="420" style="border-radius: 20px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);" alt="Maya Moon" />
-
-<br/><br/>
-
 <p>
   <i>“Still here, still you.”</i>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7050b8&height=80&section=footer" width="100%" />
 
 </div>
