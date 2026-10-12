@@ -1,0 +1,1 @@
+[<img src="https://raw.githubusercontent.com/sorried/sorried/master/assets/furry.gif" alt="what's up? i'm Maya Moon" title="what's up? i'm Maya Moon"/>](https://github.com/sorried)
