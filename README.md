@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="./assets/furry.gif" width="100%" style="border-radius: 16px; max-height: 400px; object-fit: cover; display: block; margin: 0 auto;" alt="Maya Moon Banner" />
-
-<br/><br/>
-
-<img src="./assets/pic.jpg" width="130" height="130" style="border-radius: 50%; border: 3px solid #7050b8; object-fit: cover; display: inline-block;" alt="Maya Moon Avatar" />
+<img src="./assets/pic.jpg" width="130" height="130" style="border-radius: 50%; border: 3px solid #7050b8; object-fit: cover;" alt="Maya Moon Avatar" />
 
 <h1>🌙 Maya Moon</h1>
 
@@ -25,7 +21,6 @@
   <a href="https://github.com/sorried">
     <img src="https://img.shields.io/badge/github-sorried-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/sorried/sorried/main/assets/time.json" alt="Local Time" />
   <img src="https://komarev.com/ghpvc/?username=sorried&color=7050b8&style=flat-square&label=views" alt="Views" />
 </p>
 
@@ -49,7 +44,11 @@
 
 <p>
   <a href="https://github.com/sorried/xyecoc-ipa">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sorried&repo=xyecoc-ipa&theme=transparent&title_color=7050b8&text_color=c9d1d9&icon_color=7050b8&border_color=30363d&show_owner=false" alt="xyecoc-ipa" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sorried&repo=xyecoc-ipa&theme=transparent&title_color=a78bfa&text_color=e2e8f0&icon_color=a78bfa&border_color=334155&show_owner=false" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sorried&repo=xyecoc-ipa&theme=default&title_color=7050b8&text_color=24292f&icon_color=7050b8&border_color=d0d7de&show_owner=false" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=sorried&repo=xyecoc-ipa&theme=default&title_color=7050b8&text_color=24292f&icon_color=7050b8&border_color=d0d7de&show_owner=false" alt="xyecoc-ipa" />
+    </picture>
   </a>
 </p>
 
@@ -62,6 +61,10 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sorried/sorried/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/sorried/sorried/output/github-snake.svg" width="100%" />
 </picture>
+
+<br/><br/>
+
+<img src="./assets/furry.gif" width="420" style="border-radius: 20px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);" alt="Maya Moon" />
 
 <br/><br/>
 
