@@ -42,6 +42,12 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
+<h3>📖 Learning</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+</p>
+
 <hr width="80%" />
 
 <h3>⭐ Featured Projects</h3>
