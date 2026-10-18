@@ -56,6 +56,16 @@
   </a>
 </p>
 
+<p>
+  <a href="https://github.com/sorried/disable-shorts">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sorried&repo=disable-shorts&theme=transparent&title_color=a78bfa&text_color=e2e8f0&icon_color=a78bfa&border_color=334155&show_owner=false" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sorried&repo=disable-shorts&theme=default&title_color=7050b8&text_color=24292f&icon_color=7050b8&border_color=d0d7de&show_owner=false" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=sorried&repo=disable-shorts&theme=default&title_color=7050b8&text_color=24292f&icon_color=7050b8&border_color=d0d7de&show_owner=false" alt="disable-shorts" />
+    </picture>
+  </a>
+</p>
+
 <hr width="80%" />
 
 <h3>🐍 Contribution Activity</h3>
