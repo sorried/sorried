@@ -87,7 +87,7 @@
 <br/><br/>
 
 <p>
-  <i>“Still here, still you.”</i>
+  <i>“Thank you for your existing.”</i>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7050b8&height=80&section=footer" width="100%" />
