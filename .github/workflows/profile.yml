@@ -1,0 +1,49 @@
+name: Update profile
+
+on:
+  schedule:
+    - cron: "23 3 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - scripts/profile.py
+      - scripts/requirements.txt
+      - assets/avatar.png
+      - assets/fonts/**
+      - assets/icons/**
+      - .github/workflows/profile.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile
+  cancel-in-progress: false
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: scripts/requirements.txt
+      - name: Install font renderer
+        run: python -m pip install -r scripts/requirements.txt
+      - name: Render profile images
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 scripts/profile.py --refresh
+      - name: Commit updated images
+        run: |
+          git add assets/profile data/profile.json
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Refresh profile stats"
+          git push

@@ -1,0 +1,25 @@
+{
+  "skill": "https://github.com/Nutlope/hallmark/blob/main/skills/hallmark/SKILL.md",
+  "direction": "Dark compact GitHub profile, Unbounded and recognizable language marks. User font request takes precedence over the dealt Kiln serif.",
+  "hero_review": {
+    "reviewer": "subagent",
+    "result": "ship",
+    "findings": 0
+  },
+  "finish_review": {
+    "reviewer": "subagent",
+    "result": "fix",
+    "findings": [
+      "small mobile language percentages and project metadata"
+    ],
+    "resolution": "Increased mobile percentages and project metadata to 19 SVG units, secondary labels to 18."
+  },
+  "user_overrides": {
+    "20": "User forbids code comments and AI attribution; Hallmark CSS stamp omitted."
+  },
+  "not_applicable": {
+    "77": "The deliverable is a GitHub README of SVG images, not a standalone landing page. Website section-count heuristics do not describe its sections."
+  },
+  "links_preserved": "6/6",
+  "browser_checks": "20 SVGs and 10 viewport widths; no clipping or page overflow; reduced-motion disables animations."
+}

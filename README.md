@@ -1,90 +1,97 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7050b8&height=140&section=header" width="100%" />
-
-<br/>
-
-<img src="./assets/avatar.png" width="130" height="130" alt="Maya Moon Avatar" />
-
-<h1>🌙 Maya Moon</h1>
-
-<h4>she/her • 15 y.o. • UTC+5 (MSK+2)</h4>
-
-<p>
-  <i>crafting bots & swift apps • exploring rust & ui • open-source enthusiast</i>
+<p align="center">
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/profile/intro-mobile.svg">
+    <img src="./assets/profile/intro.svg" width="800" alt="Maya Moon · sorried · she/her · UTC+5. I build bots and Swift apps, and explore Rust and UI. Russian and English. Chelyabinsk Region, Russia." />
+  </picture>
 </p>
 
-<p>
-  🗣️ <b>Speaks:</b> Russian (Native), English &nbsp;•&nbsp; 📍 <b>Location:</b> Chelyabinsk Region, Russia
+<p align="center">
+  <a href="https://t.me/i_sorried"><picture>
+    <source media="(max-width: 600px)" srcset="./assets/profile/contact-mobile.svg">
+    <img src="./assets/profile/contact.svg" width="800" alt="Telegram: @i_sorried" />
+  </picture></a>
 </p>
 
-<p>
-  <a href="https://t.me/i_sorried">
-    <img src="https://img.shields.io/badge/telegram-@i__sorried-24A1DE?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  <a href="https://github.com/sorried">
-    <img src="https://img.shields.io/badge/github-sorried-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <img src="https://hits.sh/github.com/sorried.svg?label=views&color=7050b8&style=flat-square" alt="Views" />
+<p align="center">
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/profile/about-mobile.svg">
+    <img src="./assets/profile/about.svg" width="800" alt="Native SwiftUI apps for iOS and macOS; Telegram bots, userbot modules and plugins; learning Go and Rust." />
+  </picture>
 </p>
 
-<hr width="80%" />
-
-<h3>🛠️ Tech Stack</h3>
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Rust-DEA584?style=flat-square&logo=rust&logoColor=black" alt="Rust" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+<p align="center">
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/profile/stack-mobile.svg">
+    <img src="./assets/profile/stack.svg" width="800" alt="tech stack: Python, Swift, JavaScript, TypeScript, Rust, Go, Linux and Docker; SwiftUI, FFmpeg, Telethon, TgCrypto, grammY and SQLite" />
+  </picture>
 </p>
 
-<hr width="80%" />
-
-<h3>⭐ Featured Projects</h3>
-
-<table>
-<tr>
-<td>
-  <a href="https://github.com/sorried/xyecoc-ipa">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sorried&repo=xyecoc-ipa&theme=transparent&title_color=a78bfa&text_color=e2e8f0&icon_color=a78bfa&border_color=334155&show_owner=false" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sorried&repo=xyecoc-ipa&theme=default&title_color=7050b8&text_color=24292f&icon_color=7050b8&border_color=d0d7de&show_owner=false" />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=sorried&repo=xyecoc-ipa&theme=default&title_color=7050b8&text_color=24292f&icon_color=7050b8&border_color=d0d7de&show_owner=false" alt="xyecoc-ipa" />
-    </picture>
-  </a>
-</td>
-<td>
-  <a href="https://github.com/sorried/disable-shorts">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sorried&repo=disable-shorts&theme=transparent&title_color=a78bfa&text_color=e2e8f0&icon_color=a78bfa&border_color=334155&show_owner=false" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sorried&repo=disable-shorts&theme=default&title_color=7050b8&text_color=24292f&icon_color=7050b8&border_color=d0d7de&show_owner=false" />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=sorried&repo=disable-shorts&theme=default&title_color=7050b8&text_color=24292f&icon_color=7050b8&border_color=d0d7de&show_owner=false" alt="disable-shorts" />
-    </picture>
-  </a>
-</td>
-</tr>
-</table>
-
-<hr width="80%" />
-
-<h3>🐍 Contribution Activity</h3>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sorried/sorried/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sorried/sorried/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/sorried/sorried/output/github-snake.svg" width="100%" />
-</picture>
-
-<br/><br/>
-
-<p>
-  <i>“Still here, still you.”</i>
+<p align="center">
+  <a href="https://github.com/sorried?tab=repositories"><picture>
+    <source media="(max-width: 600px)" srcset="./assets/profile/languages-mobile.svg">
+    <img src="./assets/profile/languages.svg" width="800" alt="most used languages by code bytes in my public repositories, excluding forks; updated daily" />
+  </picture></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7050b8&height=80&section=footer" width="100%" />
+<p align="center">
+  <a href="https://github.com/sorried?tab=overview"><picture>
+    <source media="(max-width: 600px)" srcset="./assets/profile/activity-mobile.svg">
+    <img src="./assets/profile/activity.svg" width="800" alt="GitHub activity: contributions over the past year, public repositories, followers and recent contribution calendar; updated daily" />
+  </picture></a>
+</p>
 
-</div>
+<p align="center">
+  <a href="https://github.com/sorried?tab=overview" aria-label="Last 30 days: contributions, active days, current streak and longest streak in the past year."><picture>
+    <source media="(max-width: 600px)" srcset="./assets/profile/recent-mobile.svg">
+    <img src="./assets/profile/recent.svg" width="800" alt="Last 30 days: contributions, active days, current streak and longest streak in the past year." />
+  </picture></a>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/profile/projects-mobile.svg">
+    <img src="./assets/profile/projects.svg" width="800" alt="selected projects" />
+  </picture>
+</p>
+
+<p align="center">
+  <a href="https://github.com/sorried/MediaForge"><picture>
+    <source media="(max-width: 600px)" srcset="./assets/profile/mediaforge-mobile.svg">
+    <img src="./assets/profile/mediaforge.svg" width="800" alt="MediaForge · a native media converter for macOS, built with SwiftUI and FFmpeg. In development." />
+  </picture></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/sorried/xyecoc-ipa"><picture>
+    <source media="(max-width: 600px)" srcset="./assets/profile/xyecoc-ipa-mobile.svg">
+    <img src="./assets/profile/xyecoc-ipa.svg" width="800" alt="xyecoc-ipa · a native iOS mail client with multiple accounts and offline support" />
+  </picture></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/sorried/freshupdate" aria-label="Open freshupdate on GitHub: Telegram release notifications using TypeScript, grammY and SQLite."><picture>
+    <source media="(max-width: 600px)" srcset="./assets/profile/freshupdate-mobile.svg">
+    <img src="./assets/profile/freshupdate.svg" width="800" alt="Open freshupdate on GitHub: Telegram release notifications using TypeScript, grammY and SQLite." />
+  </picture></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/sorried/modules" aria-label="Open modules on GitHub: Telegram userbot modules using Telethon and TgCrypto."><picture>
+    <source media="(max-width: 600px)" srcset="./assets/profile/modules-mobile.svg">
+    <img src="./assets/profile/modules.svg" width="800" alt="Open modules on GitHub: Telegram userbot modules using Telethon and TgCrypto." />
+  </picture></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/sorried/disable-shorts"><picture>
+    <source media="(max-width: 600px)" srcset="./assets/profile/disable-shorts-mobile.svg">
+    <img src="./assets/profile/disable-shorts.svg" width="800" alt="disable-shorts · a Chrome extension that hides YouTube Shorts and Playables" />
+  </picture></a>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/profile/footer-mobile.svg">
+    <img src="./assets/profile/footer.svg" width="800" alt="still here, still you." />
+  </picture>
+</p>

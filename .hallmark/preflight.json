@@ -1,0 +1,21 @@
+{
+  "scanned": "2026-11-12",
+  "findings": {
+    "target": "GitHub profile README, composed of SVG images",
+    "fonts": "Unbounded 600 and Manrope 500; local outlines",
+    "palette": "charcoal and peach from the existing fox avatar",
+    "data": "GitHub REST and GraphQL APIs",
+    "framework": "Python SVG generator; no web framework"
+  },
+  "preserve": [
+    "user identity",
+    "existing avatar",
+    "Telegram destination",
+    "existing project destinations"
+  ],
+  "introduce": [
+    "language icons",
+    "daily data refresh",
+    "responsive SVGs"
+  ]
+}
