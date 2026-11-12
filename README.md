@@ -95,3 +95,7 @@
     <img src="./assets/profile/footer.svg" width="800" alt="still here, still you." />
   </picture>
 </p>
+
+<p align="center">
+  <a href="./LICENSE">© 2026 Maya Moon. all rights reserved.</a>
+</p>
