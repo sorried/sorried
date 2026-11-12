@@ -37,10 +37,8 @@ LANGUAGES = {
     "Dockerfile": ("docker", "#91b5ee"),
 }
 PROJECTS = [
-    ("MediaForge", "Swift", "macOS", "Local media conversion with SwiftUI and FFmpeg. Audio, video and images, with batch processing.", "in development"),
     ("xyecoc-ipa", "Swift", "iOS", "A SwiftUI client for xyecoc.com mail. Multiple accounts, offline access and automatic IPA builds.", "mail client"),
     ("freshupdate", "TypeScript", "Telegram", "Release notifications for freshGram. Built with grammY and SQLite.", "release bot"),
-    ("modules", "Python", "Telegram", "Modules for Telegram userbots using Telethon and TgCrypto.", "userbot modules"),
     ("disable-shorts", "JavaScript", "Chrome", "Hides YouTube Shorts and Playables from feeds, search and navigation. Includes an on/off toggle.", "browser extension"),
 ]
 
