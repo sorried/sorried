@@ -55,13 +55,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/sorried/MediaForge"><picture>
-    <source media="(max-width: 600px)" srcset="./assets/profile/mediaforge-mobile.svg">
-    <img src="./assets/profile/mediaforge.svg" width="800" alt="MediaForge · a native media converter for macOS, built with SwiftUI and FFmpeg. In development." />
-  </picture></a>
-</p>
-
-<p align="center">
   <a href="https://github.com/sorried/xyecoc-ipa"><picture>
     <source media="(max-width: 600px)" srcset="./assets/profile/xyecoc-ipa-mobile.svg">
     <img src="./assets/profile/xyecoc-ipa.svg" width="800" alt="xyecoc-ipa · a native iOS mail client with multiple accounts and offline support" />
@@ -72,13 +65,6 @@
   <a href="https://github.com/sorried/freshupdate" aria-label="Open freshupdate on GitHub: Telegram release notifications using TypeScript, grammY and SQLite."><picture>
     <source media="(max-width: 600px)" srcset="./assets/profile/freshupdate-mobile.svg">
     <img src="./assets/profile/freshupdate.svg" width="800" alt="Open freshupdate on GitHub: Telegram release notifications using TypeScript, grammY and SQLite." />
-  </picture></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/sorried/modules" aria-label="Open modules on GitHub: Telegram userbot modules using Telethon and TgCrypto."><picture>
-    <source media="(max-width: 600px)" srcset="./assets/profile/modules-mobile.svg">
-    <img src="./assets/profile/modules.svg" width="800" alt="Open modules on GitHub: Telegram userbot modules using Telethon and TgCrypto." />
   </picture></a>
 </p>
 
